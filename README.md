@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="" />
+<img src="./assets/ResponsivoWe-Care.png" />
 
 > Esse projeto é um site simples para treino.
 
